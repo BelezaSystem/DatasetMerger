@@ -1,0 +1,386 @@
+Index,Names
+1,AM_SAMPLE_TIME
+2,Bace media glucose g/L
+3,Fortified feed
+4,Bioreactor Volume:
+5,Target Cv dencity MVC/mL
+6,Target Cv P responce:
+7,Target Cv ΔP responce:
+8,Now
+9,Sample Time
+10,Hour
+11,Day
+12,Delta h
+13,Cv/mL 10E6
+14,Ct/mL 10E6
+15,Cv%
+16,Cell culture volume
+17,Diam
+18,pH
+19,pO2
+20,pCO2
+21,Glucose g/L
+22,Lactate g/L
+23,NH3 mM
+24,Glutamine g/L
+25,Glutamine mmol
+26,Glutamate g/L
+27,Glutamate mmol
+28,LDH U/L
+29,Osmolality
+30,Online pH
+31,Online DO
+32,Product titer g/L bioreactor
+33,Product titer g/L perfundate
+34,Retention
+35,Feed and harves measure time
+36,Delta h_1
+37,Harvest weight g
+38,CB1
+39,CB3
+40,Harvest pump RPM
+41,Weight Bleed
+42,Bleed pump RPM
+43,Weight Fortified
+44,Pump speed fortified RPM
+45,Rec Harvest pump
+46,Rec Pump speed bleed
+47,Rec Pump speed Glucose
+48,Volume Fortified mL/d
+49,Volume Bleed mL/d
+50,Volume base feed mL/d
+51,Total out mL/d
+52,Acumulated out
+53,Perfusion Rate RV/d
+54,Total glucose in g/d
+55,Total glucose out g/d
+56,Glucose diff from aim
+57,GlucBR TOT g
+58,Glucose consumption g/d
+59,CSGC ng/cell/day
+60,qp pg/cell/day
+61,CSPR pL/Cv/d
+62,AVE CVBr E9
+63,AVE QpVBr g/L
+64,ΔCVBr E9
+65,ΔCV BLEAD E9
+66,ΔCVTOT E9
+67,µ Br
+68,µ Br+blead
+69,PDT Br
+70,PDT Br+blead
+71,Time
+72,Time since start
+73,Culturing day
+74,Weight (kg)
+75,Rocking (rpm)
+76,Angle (°)
+77,Online-pH
+78,Online-DO
+79,VCD (MVC/mL)
+80,TCD (MVC/mL)
+81,Viability (%)
+82,Total cell count (MVC)
+83,Growth rate (1/h)
+84,Growth rate (1/day)
+85,PDT (h)
+86,Increase in VCD since last sampling (x times)
+87,pH Offline
+88,CO2 (kPa)
+89,DO (kPa)
+90,Glucose (g/L)
+91,Lactate (g/L)
+92,IgG
+93,Glutamate (g/L)
+94,LDH
+95,Osmolality (mOsm/kg
+96,Harvest (kg)
+97,Harvest (kg/day)
+98,Base total weight (g)
+99,Base net consumption (g)
+100,Perfusion speed (RV/day)
+101,Perfusion speed (L/day)
+102,Weight
+103,Rocking
+104,Time since start (days)
+105,Time since start_1
+106,Total cell count
+107,Increase in VCD since last sampling
+108,Titer (g/L)
+109,LDH (U/L)
+110,Osmolality (mOsm/kg)
+111,Netweight Harvest (kg)
+112,Time for change of perfusion speed
+113,Pumpspeed (mL/min)
+114,Base (g)
+115,Titer (g)
+116,Perfusion speed (mL/min)
+117,Date
+118,Culture time [hours]
+119,Culture time [days]
+120,Viable cellcon. [106/ml]
+121,Total cellcon. [106/ml]
+122,Viability[ % ]
+123,IVCC total (106 cells x h /mL)
+124,IVCC/liter/day
+125,Cell diameter [µm]
+126,Growth rate 1/day
+127,PDT
+128,Generation Number
+129,On-line pH
+130,Off-line pH
+131,Recalibration >0.05 differnce
+132,On-line DO (%)
+133,pO2[kPa]
+134,pCO2[kPa]
+135,Reactor weight[ kg ]
+136,Feed A[mL/d]
+137,Feed A Balance
+138,Actual Feed A (%)
+139,Feed B[mL/d]
+140,Feed B Balance
+141,Actual Feed B (%)
+142,Glucose Stock Solution[mL/d]
+143,Actual Glucose added (mL/d)
+144,Calculated VCD in 12 hours
+145,Wanted CSPR (pL/cell/day)
+146,VVD (kg)
+147,Total wanted perfusion speed until next day (mL/min)
+148,Wanted bleed speed until next day (mL(min)
+149,Set perfusion speed until next day (mL/min)
+150,Column1
+151,Weight media at sampling (kg)
+152,Weight Harvest at sampling (kg)
+153,Weight Bleed at sampling(kg)
+154,Weight base at sampling (g)
+155,Total base consumption (g)
+156,VCD perfundate
+157,IgG perfundate
+158,Date and time for weights after adjustment of perfusion speed
+159,Time from adjustment of perfusion speed until next days sampling
+160,Weight media after adjustment
+161,Weight harvest after adjustment
+162,Weight bleed after adjustment
+163,Change in media weight
+164,Change in harvest weight
+165,Change in bleed weight
+166,Actual VCD after 12h (MVC/mL)
+167,Actual media flow last day (mL/min)
+168,Actual Media VVD
+169,Actual CSPR based on Media (pL/cell/day)
+170,Actual perfusion flow last day (mL/min)
+171,Actual Harvest VVD
+172,Actual CSPR based on Harvest (pL/cell/day)
+173,Actual bleed flow last day (mL/min)
+174,Actual Bleed VVD
+175,volume glucose/day (mL)
+176,pump flow until next day (mL/min)
+177,Glutamate [mg/L]
+178,Glutamine [mmol/L]
+179,Lactate [g/l]
+180,NH4+ mmol/L
+181,LDH [U/L]
+182,Osmolality (mmol/kg)
+183,Calulated osmolality after feed (mmol/kg)
+184,IgG [g/l]
+185,Specific productivity (pg/cell/day)
+186,Daily yield perfusion (g/d)
+187,Total yield perfusion (g)
+188,Space time yield perfusion (g/L/d)
+189,Volumetric productivity perfusion (g/L/d)
+190,Agitation speed (rpm)
+191,Temperarure (°C)
+192,Airflow rate DO-control MFC-01 [L/min]
+193,Oxygen flow rate DO-control MFC-02 [L/min]
+194,CO2 flow rate pH-control MFC-03 [L/min]
+195,Airflow rate Stripping MFC-04 (setpoint) [L/min]
+196,Angle
+197,Air
+198,O2 (%)
+199,CO2 (%)
+200,Total Glucose Consumed (g)
+201,Total Glucose Consumed (g/L)
+202,Total Glutamate Consumed (mMol)
+203,Total Glutamate Consumed (mMol/L)
+204,Rocking speed RPM
+205,Rocking angle SP o
+206,Weight kg
+207,Gas flow l/min
+208,CO2 %
+209,O2 %
+210,DO %
+211,Pump 1A total vol ml
+212,Pump 1B total vol ml
+213,Pump 2A total vol ml
+214,Pump 2B total vol ml
+215,Temp °C
+216,Added base per culture volume (g/L)
+217,Glutamate [g/L]
+218,IVCC total (106 cells x Day /mL)
+219,Off-line DO
+220,Glucose conc after feed (g/L)
+221,Glucose Stock Solution[g/d]
+222,Actual Glucose added (g/d)
+223,Wanted CSPR
+224,Wanted perfusion speed until next day (mL/min)
+225,Weight media (kg)
+226,Weight Harvest (kg)
+227,Weight Bleed (kg)
+228,Weight base (g)
+229,Lactate (g/l)
+230,Specific productivity
+231,Base addition (L)
+232,IVCC total (106 cells/mL/day)
+233,Biomass sensor (pF/cm)
+234,Correction factor VCD and biomass
+235,Pressure (mBar)
+236,Feed A Totaliser (mL)
+237,Feed B Balance (g)
+238,Glucose Stock Solution to add[mL/d]
+239,Glucose Stock Solution to add[g/d]
+240,Total glucose added per day (g/day)
+241,Total base added (L)
+242,Base added per culture volume (L/L)
+243,Weigth Harvest at sampling (kg)
+244,Totalizer Harvest at sampling (L)
+245,PE-011 Feed pressure (bar)
+246,PE-012 Retentate pressure (bar)
+247,PE-013 Permeate pressure (bar)
+248,VCD perfusate
+249,Glc perfusate (g/L)
+250,Glu perfusate (mM)
+251,Gln perfusate (mM)
+252,Lac perfusate (g/L)
+253,NH4+ perfusate (mM)
+254,LDH perfusate (U/L)
+255,IgG perfusate (g/L)
+256,Sieving (%)
+257,Osmolality (mOsmo/kg)
+258,Calulated osmolality after feed (mOsmo/kg)
+259,Glucose (g/L)_1
+260,Lactate [g/l]_2
+261,NH4+ mmol/L_3
+262,LDH [U/L]_4
+263,Temp �C
+264,VCD HyClone-CHO Vicell Setting
+265,Viability HyClone-CHO Vicell Setting[ % ]
+266,_1
+267,Glc conc after feeds
+268,_2
+269,_3
+270,Glutamine (g/L)
+271,Yield perfusion (g)
+272,Space time yield
+273,_4
+274,_5
+275,Base totalizer (mL)
+276,Reactor weight (kg)
+277,True Reactor weight[ kg ]
+278,Agitation speed setting after feeding (rpm)
+279,Feed A Balance (g)
+280,Actual Feed A (% of start volume)
+281,Total glucose added (kg)
+282,Glucose conc after feed & glc additions (g/L)
+283,Total base added (g)
+284,Base added per culture volume (g/L)
+285,Glutamate [mmol/L]
+286,IgG in L8 [g/l]
+287,IgG in L3 [g/l]
+288,DateTime
+289,Pressure (mbar)
+290,MFC1 - Air (20 µm)
+291,MFC2 - O2 (20 µm)
+292,MFC3 - CO2 (1 mm)
+293,MFC4 - Air (1 mm)
+294,DO (%)
+295,pH online
+296,pH SP
+297,Base pump (not calibrated)
+298,Agitation (rpm)
+299,Vessel temp (°C)
+300,Culture time (hours)
+301,Culture time (days)
+302,Viable cell con. (106/ml)
+303,Total cell con. (106/ml)
+304,Viability(%)
+305,Cell diameter (µm)
+306,pCO2(kPa)
+307,pO2(kPa)
+308,Temperature (°C)
+309,Airflow rate DO-control MFC-01 (L/min)
+310,Oxygen flow rate DO-control MFC-02 (L/min)
+311,CO2 flow rate pH-control MFC-03 (L/min)
+312,Airflow rate Stripping MFC-04 (setpoint) (L/min)
+313,Bag Pressure (mBar)
+314,Feed A(mL/d)
+315,Feed B(mL/d)
+316,Glucose Stock Solution to add(mL/d)
+317,Glucose Stock Solution to add(g/d)
+318,Glc conc after feed & glc additions (g/L)
+319,Base Weight on scale (kg)
+320,Total base added (kg)
+321,Daily base addition (kg)
+322,Base added per culture volume (g/L/day)
+323,VCD including bleed (MVC/mL)
+324,Growth rate including bleed (1/day)
+325,Esitmated VCD in 24h (MVC/mL)
+326,Total bleed volume (kg)
+327,Estimated VCD in 12 hours (MVC/mL)
+328,Perfusion VVD
+329,Total perfusion volume until next day (kg)
+330,Bleed rate until next day (mL/min)
+331,Perfusion rate until nex day (mL/min)
+332,Glc (g/L)
+333,Gln (mmol/L)
+334,Glu (mmol/L)
+335,IgG (g/L)
+336,Estimated IgG with 1
+337,1 factor
+338,IgG new Cedex bio kit
+339,IgG Cedex bio in L3
+340,Lac (g/L)
+341,NH3 (mmol/L)
+342,Osmolality (mOsmol/kg)
+343,Feed osmo
+344,Added uppdated calculation after runFeed osmo
+345,glucose osmo
+346,Added uppdated calculation after runGlucose osmo
+347,Added uppdated calculation after runCalc osmo after feed and Glc
+348,Calc osmo after feed and Glc (mOsmol/kg)
+349,MFC3 - CO2 (0.5 mm)
+350,MFC4 - Air (0.5 mm)
+351,Base totalizer (relative vol)
+352,Weight harvest at sampling (kg)
+353,Totalizer harvest at sampling (L)
+354,Weight Bleed at sampling (kg)
+355,VCD perfusate MVC/mL)
+356,Lac perfusate (mM)
+357,NH3+ perfusate (g/L)
+358,CSPR (pL/cell/d)
+359,Steady state VCD (MVC/mL)
+360,Weight media after adjustment (kg)
+361,Weight harvest after adjustment (kg)
+362,Weight bleed after adjustment (kg)
+363,Change in media weight (kg)
+364,Change in harvest weight (kg)
+365,Change in bleed weight (kg)
+366,Actual harvest flow last day (mL/min)
+367,Glc (%)
+368,Gln (%)
+369,Glu (%)
+370,IgG (%)
+371,Lac (%)
+372,LDH (%)
+373,NH3 (%)
+374,Time (days)
+375,Time (h)
+376,Rocking speed (RPM)
+377,Gas flow (L/min)
+378,Temp (°C)
+379,Viable cellcon. [10^6/ml]
+380,IVCC total (10^6 cells/mL/day)
+381,Glc conc after feeds and glc (g/L)
+382,Days
+383,Rocking angle SP (°)
+384,Rocking angle SP
+385,Fab (g/L)
